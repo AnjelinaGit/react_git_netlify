@@ -57,13 +57,20 @@ function App() {
               <div className="footer">
                 <small>
                   <a
-                    href="https://github.com/AnjelinaGit/vanilla-weather-app"
+                    href="https://github.com/AnjelinaGit/react_git_netlify"
                     target="_blank"
                     rel="noreferrer"
                   >
-                    Open-source code_
+                    Open-source code{" "}
                   </a>
-                  by Anjelina Kabul
+                  by Anjelina Kabul and hosted on{" "}
+                  <a
+                    href="https://beamish-sundae-701e56.netlify.app/"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    Netlify
+                  </a>
                 </small>
               </div>
             </div>
