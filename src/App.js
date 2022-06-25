@@ -56,20 +56,22 @@ function App() {
               </div>
               <div className="footer">
                 <small>
+                  This project was coded by Anjelina Kabul and is
                   <a
                     href="https://github.com/AnjelinaGit/react_git_netlify"
                     target="_blank"
                     rel="noreferrer"
                   >
-                    Open-source code{" "}
+                    {" "}
+                    open-sourced{" "}
                   </a>
-                  by Anjelina Kabul and hosted on{" "}
+                  and{" "}
                   <a
                     href="https://beamish-sundae-701e56.netlify.app/"
                     target="_blank"
                     rel="noreferrer"
                   >
-                    Netlify
+                    hosted on Netlify
                   </a>
                 </small>
               </div>
